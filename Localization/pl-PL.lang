@@ -1,36 +1,36 @@
 # Translation by: 
 
-# Hotbar.ShowItemBrowser=Show Item Browser
-# Hotbar.ShowClearMenu=Show Clear Menu
-# Hotbar.ShowNPCBrowser=Show NPC Browser
-# Hotbar.ShowRecipeBrowser=Show Recipe Browser
-# Hotbar.ShowModExtensionCheats=Show Mod Extension Cheats
-# Hotbar.ShowPaintTools=Show Paint Tools
-# Hotbar.ExtraAccessorySlots=Extra Accessory Slots
-# Hotbar.VacuumItems=Vacuum Items
-# Hotbar.ShowNPCButcherer=Show NPC Butcherer
-# Hotbar.ShowQuickWaypoints=Show Quick Waypoints
-# Hotbar.ConfigureAvailableTools=Configure Available Tools
+# Hotbar.ShowItemBrowser=Okno z przedmiotami
+# Hotbar.ShowClearMenu=Menu czyściciela
+# Hotbar.ShowNPCBrowser=Okno NPC
+# Hotbar.ShowRecipeBrowser=Okno z receptami
+# Hotbar.ShowModExtensionCheats=Pokaż rozszerzenia modów
+# Hotbar.ShowPaintTools=Okno edycji terenu
+# Hotbar.ExtraAccessorySlots=Dodatkowe sloty akcesorii
+# Hotbar.VacuumItems=Czyściciel
+# Hotbar.ShowNPCButcherer=Zabójca NPC
+# Hotbar.ShowQuickWaypoints=Szybkie teleporty
+# Hotbar.ConfigureAvailableTools=Ustawienia narzędzii
 
-# Butcherer.ButcherHostileNPCs=Butcher hostile NPCs
-# Butcherer.ButcherHostileAndFriendlyNPCs=Butcher hostile and friendly NPCs
-# Butcherer.ButcherFriendlyNPCs=Butcher friendly NPCs
-# Butcherer.ButcherNotification=NPCs were butchered by {0}
+# Butcherer.ButcherHostileNPCs=Zabij wrogie NPC
+# Butcherer.ButcherHostileAndFriendlyNPCs=Zabij wrogie i przyjazne NPC
+# Butcherer.ButcherFriendlyNPCs=Zabij przejazne NPC
+# Butcherer.ButcherNotification=NPC ktorzy zostali zabici {0}
 
-# Vacuum.VacuumNotification=Items on the ground were vacuumed by {0}
+# Vacuum.VacuumNotification=Przedmioty wyczyszczone z ziemi {0}
 
-# Teleport.Dungeon=Dungeon
+# Teleport.Dungeon=Lochy
 # Teleport.Spawnpoint=Spawnpoint
-# Teleport.Hell=Hell
-# Teleport.Temple=Temple
-# Teleport.Random=Random
+# Teleport.Hell=Piekło
+# Teleport.Temple=Świątynia
+# Teleport.Random=Losowe
 
-# QuickClear.ClearDroppedItems=Clear dropped items
-# QuickClear.ClearProjectiles=Clear projectiles
-# QuickClear.ClearBuffs=Clear buffs
-# QuickClear.ClearDebuffs=Clear debuffs
-# QuickClear.ItemClearNotification=Items were cleared by {0}
-# QuickClear.ProjectileClearNotification=Projectiles were cleared by {0}
+# QuickClear.ClearDroppedItems=Wyczyść wyrzucone przedmioty
+# QuickClear.ClearProjectiles=Wyczyść pociski
+# QuickClear.ClearBuffs=Wyczyść buffy
+# QuickClear.ClearDebuffs=Wyczyść debuffy
+# QuickClear.ItemClearNotification=Przedmioty wyczyszczone z ziemi {0}
+# QuickClear.ProjectileClearNotification=Pociski wyczyszczone {0}
 
 # SpawnRate.SpawnRateMultiplier=Spawn Rate Multiplier: 1х
 # SpawnRate.SpawnRateMultiplierNew=Spawn Rate Multiplier:
